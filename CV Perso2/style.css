@@ -1,0 +1,71 @@
+
+.hobbie{
+    
+    
+    display:flex;
+    flex-wrap: nowrap;
+}
+
+.bloc{
+    text-align: center;
+    justify-content: flex-start;
+    padding: 90px;
+    
+}
+
+.descr{
+    
+    justify-content: flex-end;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .bloc{
+    
+    flex-wrap: nowrap;
+    width: 10px;
+    height: 10px;
+}
+
+
+
+.hobbie {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+    
+}
+
+.descr{
+    
+    justify-content: flex-end;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 24px;
+} */
+
+
+
+/* .img{
+    flex-direction: column;
+    width: 400px;
+} */

@@ -1,0 +1,19 @@
+h1{
+    background-color: red;
+    }
+    
+    div li{
+        display:flex;
+        justify-content:flex-start;
+        flex-direction:column;
+        list-style-type:none;
+          background-color:blue;
+          margin:15px;
+          width:100px;
+          text-align:center;
+    
+    }
+    .class{
+        margin:15px;
+    
+    }

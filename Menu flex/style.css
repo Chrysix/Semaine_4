@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    display:flex;
+    border-bottom:  1px solid lightgrey;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5px;
+}
+
+header ul {
+    display:flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+header nav {
+    width: 30%;
+}
